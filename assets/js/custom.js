@@ -65,9 +65,9 @@ jQuery( document ).ready(function( $ ) {
                 dots: true,
                 items: 3,
                 margin: 10,
-                autoplay: false,
+                autoplay: true,
                 smartSpeed: 700,
-                autoplayTimeout: 6000,
+                autoplayTimeout: 2000,
                 responsive: {
                     0: {
                       items: 1,
